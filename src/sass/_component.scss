@@ -1,0 +1,35 @@
+.component{
+	width: 20rem;
+	height: 31.063rem;
+	background-color: $White;
+	border-radius: 20px;
+	padding: 1rem;
+
+	position: relative;
+	justify-content: center;
+	align-items: center;
+}
+img{
+	width: 100%;
+	border-radius: 10px;
+}
+.para{
+	margin-top: 1.5rem;
+
+	width: 100%;
+}
+h1{
+	margin-left: 1rem;
+	margin-right: 1rem;
+	margin-top: 0;
+	color: #1F314F;
+	font-size: 22px;
+	text-align: center;
+}
+p{
+	margin-left: 1rem;
+	margin-right: 1rem;
+	margin-top: 0;
+	text-align: center;
+	color: $GrayishBlue;
+}
