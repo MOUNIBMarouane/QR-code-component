@@ -9,6 +9,13 @@ body {
   align-items: center;
 }
 
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .component {
   width: 20rem;
   height: 31.063rem;
@@ -16,8 +23,6 @@ body {
   border-radius: 20px;
   padding: 1rem;
   position: relative;
-  justify-content: center;
-  align-items: center;
 }
 
 img {
